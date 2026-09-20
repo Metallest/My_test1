@@ -1,15 +1,4 @@
-橘子 Orange みかん
-香蕉 Banana バナナ
-苹果 Apple りんご
-大枣 Jujube なつめ
-葡萄 Grape ぶどう
-草莓 Strawberry いちご
-西瓜 Watermelon スイカ
-桃子 Peach もも
-柠檬 Lemon レモン
 菠萝 Pineapple パイナップル
-樱桃 Cherry さくらんぼ
-芒果 Mango マンゴー
 百香果 Passion fruit パッションフルーツ
 番石榴 Guava グアバ
 腰果 Cashew カシューナッツ
