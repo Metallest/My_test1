@@ -1,4 +1,3 @@
-火龙果 Dragon fruit ドラゴンフルーツ
 橘子 Orange みかん
 香蕉 Banana バナナ
 苹果 Apple りんご
@@ -7,9 +6,7 @@
 草莓 Strawberry いちご
 西瓜 Watermelon スイカ
 桃子 Peach もも
-梨 Pear なし
 柠檬 Lemon レモン
 菠萝 Pineapple パイナップル
 樱桃 Cherry さくらんぼ
 芒果 Mango マンゴー
-猕猴桃 Kiwi キウイ
