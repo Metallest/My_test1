@@ -10,3 +10,13 @@
 菠萝 Pineapple パイナップル
 樱桃 Cherry さくらんぼ
 芒果 Mango マンゴー
+百香果 Passion fruit パッションフルーツ
+番石榴 Guava グアバ
+腰果 Cashew カシューナッツ
+针叶樱桃 Acerola アセロラ
+巴西莓 Açaí アサイー
+卡姆果 Camu camu カムカム
+刺果番荔枝 Soursop サワーソップ
+可可果 Cacao カカオ
+树番茄 Tamarillo タマリロ
+嘉宝果 Jabuticaba ジャブチカバ
