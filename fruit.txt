@@ -1,15 +1,4 @@
-橘子 Orange みかん
-香蕉 Banana バナナ
-苹果 Apple りんご
-大枣 Jujube なつめ
-葡萄 Grape ぶどう
-草莓 Strawberry いちご
-西瓜 Watermelon スイカ
-桃子 Peach もも
-柠檬 Lemon レモン
 菠萝 Pineapple パイナップル
-樱桃 Cherry さくらんぼ
-芒果 Mango マンゴー
 百香果 Passion fruit パッションフルーツ
 番石榴 Guava グアバ
 腰果 Cashew カシューナッツ
@@ -20,3 +9,13 @@
 可可果 Cacao カカオ
 树番茄 Tamarillo タマリロ
 嘉宝果 Jabuticaba ジャブチカバ
+蓝莓 Blueberry ブルーベリー
+蔓越莓 Cranberry クランベリー
+泡泡果 Pawpaw ポポー
+美洲柿 American persimmon アメリカガキ
+康科德葡萄 Concord grape コンコードブドウ
+黑莓 Blackberry ブラックベリー
+美洲树莓 American red raspberry アメリカニガイチゴ
+仙人掌果 Prickly pear ウチワサボテンの実
+黑樱桃 Black cherry ブラックチェリー
+接骨木莓 Elderberry エルダーベリー
